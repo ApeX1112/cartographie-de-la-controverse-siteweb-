@@ -1,0 +1,81 @@
+body{
+    font-family: palatino "palatino Linotype","Palatino LT STD","Book Antiqua",Times,"Times New Roman",serif;
+    font-size: 2rem;
+    line-height: 1.8;
+    background-image: url('4k_background_footage_ideal_for_Blockchain_Website.gif'); /* Add the path to your GIF here */
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    justify-content: center;
+}
+#image{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    opacity: 0.5;
+    left: 230px;
+    bottom: -870px;
+    height: 800px;
+    weight:700px;
+
+}
+.circle-container{
+    text-align: center;
+    position: relative;
+}
+#lo1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 1150px;
+    bottom: -250px;
+    text-decoration: underline;
+}
+#loo{
+    position: absolute;
+    color: white;
+    left: 500px;
+    top: 100px;
+    text-decoration: underline;
+}
+#loo1{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    left: 1100px;
+    top: 400px;
+}
+#loo2{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    left: 1400px;
+    top: 250px;
+}
+#loo3{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    left: 500px;
+    top: 250px;
+}
+#loo4{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    left: 500px;
+    top: 600px;
+}
+#loo5{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    left:850px;
+    top: 500px;
+}
+#loo6{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    left:880px;
+    top: 300px;
+}

@@ -1,0 +1,41 @@
+body{
+    font-family: palatino "palatino Linotype","Palatino LT STD","Book Antiqua",Times,"Times New Roman",serif;
+    font-size: 2rem;
+    line-height: 1.8;
+    background-image: url('4k_background_footage_ideal_for_Blockchain_Website.gif'); /* Add the path to your GIF here */
+    background-size: cover; /* This will make sure the GIF covers the whole body, you can adjust as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.centered-square {
+    width: 550px; 
+    height: 550px;
+    background-color: #4cacaf9a;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor:cell;
+}
+
+.hidden {
+    display: none;
+    margin-top: 40px; /* Space between the square and the additional text */
+}
+#additional-text{
+    color: white;
+    font-size: 60px;
+}
+#square{
+    text-size-adjust:initial;
+    font-size: 70px;
+}
